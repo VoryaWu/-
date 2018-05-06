@@ -15,14 +15,20 @@ w3school：http://www.w3school.com.cn/index.html
 ---
 
 ### 设计相关
-
-dribbble：https://dribbble.com/  
-behance：https://www.behance.net/  
-fwa：https://thefwa.com/  
+  
+Dribbble：https://dribbble.com/  
+Behance：https://www.behance.net/  
+Fwa：https://thefwa.com/  
 awwward：https://www.awwwards.com/  
 Google font：https://fonts.google.com/  
 CodePen：https://codepen.io/  
 缓动函数速查表：https://easings.net/zh-cn#  
+
+Apple Developer：https://developer.apple.com/cn/  
+Fluent Design System：http://fluent.microsoft.com/  
+Google Design：https://design.google/  
+Material Design：https://material.io/  
+Facebook Design：http://facebook.design/
 
 ---
 
