@@ -41,4 +41,5 @@ Markdown：https://www.markdownguide.org/
 
 ### books
 
-增长黑客：https://jobrest.gitbooks.io/growthhacking/content/index.html
+《增长黑客》范冰 ：https://jobrest.gitbooks.io/growthhacking/content/index.html
+《软技能 - 代码之外的生存指南》 [美]约翰 Z. 森梅兹（John Z. Sonmez）：https://book.douban.com/subject/26835090/
