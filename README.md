@@ -32,7 +32,6 @@ Fluent Design System：http://fluent.microsoft.com/
 Google Design：https://design.google/  
 Material Design：https://material.io/  
 Facebook Design：http://facebook.design/  
-Blender:
 
 ---
 
