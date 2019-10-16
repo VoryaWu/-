@@ -6,7 +6,10 @@
 ### 基础知识
 
 w3school：http://www.w3school.com.cn/index.html  
-前端工程师手册：https://leohxj.gitbooks.io/front-end-database/html-and-css-basic/semantic-html.html
+前端工程师手册：https://leohxj.gitbooks.io/front-end-database/html-and-css-basic/semantic-html.html   
+w3官方css指南：https://www.w3.org/TR/css-grid/  
+flex布局：https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-background  
+flex基础语法：https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
      
 ---
 
@@ -28,7 +31,8 @@ Apple Developer：https://developer.apple.com/cn/
 Fluent Design System：http://fluent.microsoft.com/  
 Google Design：https://design.google/  
 Material Design：https://material.io/  
-Facebook Design：http://facebook.design/
+Facebook Design：http://facebook.design/  
+Blender:
 
 ---
 
@@ -36,6 +40,15 @@ Facebook Design：http://facebook.design/
 
 GitHub：https://github.com/  
 Markdown：https://www.markdownguide.org/  
+  
+---  
+
+### 飞机
+
+转机：https://dash.cloudflare.com/  
+GCP：https://cloud.google.com/  
+JMS: https://justmysocks1.net/  
+
 
 ---
 
