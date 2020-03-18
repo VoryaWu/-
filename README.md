@@ -93,7 +93,7 @@ JMS: https://justmysocks.net/
 ### 纪录片
 
 尔雅.包豪斯革命（梁文道 / 陈丹青）：https://movie.douban.com/subject/34984520/  
-【抽象：设计的艺术】第一季 全8集：https://www.bilibili.com/video/av11019747
+【抽象：设计的艺术】第一季 全8集：https://www.bilibili.com/video/av11019747  
 【抽象：设计的艺术】第二季 全6集：https://www.bilibili.com/video/av70801509  
 《Rams》 - 工业设计传奇设计师 迪特.拉姆斯2018纪录片（附中文字幕）:https://www.bilibili.com/video/av38191433  
 
