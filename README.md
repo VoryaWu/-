@@ -58,7 +58,7 @@ magi搜索引擎：https://magi.com/
 
 ---  
 
-### 飞机  
+### 扶梯  
 
 转机：https://dash.cloudflare.com/  
 GCP：https://cloud.google.com/  
@@ -75,6 +75,27 @@ JMS: https://justmysocks.net/
 《你当像鸟飞往你的山》[美] 塔拉·韦斯特弗：https://book.douban.com/subject/33440205/  
 《曾国藩》唐浩明：https://book.douban.com/subject/1037060/  
 《思考，快与慢》[美] Daniel Kahneman：https://book.douban.com/subject/10785583/  
+《为真实得世界设计》[美] 维克多·帕帕奈克：https://book.douban.com/subject/19912141/  
+
+---
+
+### 电台
+
+疯投圈（黄海、Rio）：https://crazy.capital/  
+机核网 Gadio：https://www.gcores.com/radios  
+狗熊有话说 BearTalk：https://www.beartalking.com/  
+声东击西：https://www.etw.fm/  
+迟早更新（任宁）：http://www.weareones.com/podcast  
+一席：https://yixi.tv/  
+
+---
+
+### 纪录片
+
+尔雅.包豪斯革命（梁文道 / 陈丹青）：https://movie.douban.com/subject/34984520/  
+【抽象：设计的艺术】第一季 全8集：https://www.bilibili.com/video/av11019747
+【抽象：设计的艺术】第二季 全6集：https://www.bilibili.com/video/av70801509  
+《Rams》 - 工业设计传奇设计师 迪特.拉姆斯2018纪录片（附中文字幕）:https://www.bilibili.com/video/av38191433  
 
 ---
 
