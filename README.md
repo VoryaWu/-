@@ -54,7 +54,6 @@ Blender：https://www.blender.org/
 ### 趣味  
 
 GitHub：https://github.com/  
-Markdown：https://www.markdownguide.org/  
 magi搜索引擎：https://magi.com/  
 音乐编程：http://sonic-pi.net/  
 4chan：https://www.4channel.org/
