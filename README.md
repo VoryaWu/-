@@ -78,6 +78,7 @@ JMS: https://justmysocks.net/
 《曾国藩》唐浩明：https://book.douban.com/subject/1037060/  
 《思考，快与慢》[美] Daniel Kahneman：https://book.douban.com/subject/10785583/  
 《为真实得世界设计》[美] 维克多·帕帕奈克：https://book.douban.com/subject/19912141/  
+《长尾理论》[美] 克里斯·安德森：https://book.douban.com/subject/11589951/  
 
 ---
 
