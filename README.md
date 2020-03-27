@@ -116,4 +116,3 @@ JMS: https://justmysocks.net/
 程序员客栈：https://www.proginn.com/  
 indeed：https://cn.indeed.com/  
 Toppro-按需雇佣顶尖专业人才：http://toppro.io/  
-Ruby-China：https://ruby-china.org/  
