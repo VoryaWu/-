@@ -5,7 +5,7 @@
 
 ### 前端
 
-##### 基础知识  
+-  **基础知识**  
 w3school：http://www.w3school.com.cn/index.html  
 前端工程师手册：https://leohxj.gitbooks.io/front-end-database/html-and-css-basic/semantic-html.html   
 w3官方css指南：https://www.w3.org/TR/css-grid/  
@@ -13,18 +13,18 @@ flex布局：https://css-tricks.com/snippets/css/a-guide-to-flexbox/#flexbox-bac
 flex基础语法：https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties  
 nextjs：https://nextjs.org/  
 
-##### 进阶知识  
+-  **进阶知识**  
 zeit：https://zeit.co/  
 内容管理cms：https://www.contentful.com/  
 
-##### Markdown
+-  **MARKDOWN**  
 Markdown Guide：https://www.markdownguide.org/  
 
 ---
 
 ### 设计  
 
-##### 灵感来源  
+- **灵感来源**    
 Dribbble：https://dribbble.com/  
 Behance：https://www.behance.net/  
 Fwa：https://thefwa.com/  
@@ -36,14 +36,14 @@ Fontello：http://fontello.com/
 Are.na：https://www.are.na/  
 Logo在线参考书：http://www.logobook.com/  
 
-###### 平台  
+- **平台**  
 Apple Developer：https://developer.apple.com/cn/  
 Fluent Design System：http://fluent.microsoft.com/  
 Google Design：https://design.google/  
 Material Design：https://material.io/  
 Facebook Design：http://facebook.design/  
 
-##### 工具  
+- **工具**    
 Figma：https://www.figma.com/  
 Sketch：https://www.sketch.com/  
 Vectary3D：https://www.vectary.com/  
