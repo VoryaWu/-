@@ -90,7 +90,7 @@ JMS: https://justmysocks.net/
 声东击西：https://www.etw.fm/  
 迟早更新（任宁）：http://www.weareones.com/podcast  
 一席：https://yixi.tv/  
-GQtalk（蜻蜓 FM 提供）
+GQtalk（蜻蜓 FM 提供）：https://www.qingting.fm/  
 
 ---
 
