@@ -56,7 +56,7 @@ Blender：https://www.blender.org/
 GitHub：https://github.com/  
 magi搜索引擎：https://magi.com/  
 音乐编程：http://sonic-pi.net/  
-4chan：https://www.4channel.org/
+4chan：https://www.4channel.org/  
 
 ---  
 
@@ -90,6 +90,7 @@ JMS: https://justmysocks.net/
 声东击西：https://www.etw.fm/  
 迟早更新（任宁）：http://www.weareones.com/podcast  
 一席：https://yixi.tv/  
+GQtalk（蜻蜓 FM 提供）
 
 ---
 
