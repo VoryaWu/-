@@ -91,6 +91,7 @@ JMS: https://justmysocks.net/
 迟早更新（任宁）：http://www.weareones.com/podcast  
 一席：https://yixi.tv/  
 GQtalk（蜻蜓 FM 提供）：https://www.qingting.fm/  
+内核恐慌（吴涛、Rio）：https://pan.icu/
 
 ---
 
