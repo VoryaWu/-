@@ -64,7 +64,9 @@ magi搜索引擎：https://magi.com/
 
 转机：https://dash.cloudflare.com/  
 GCP：https://cloud.google.com/  
-JMS: https://justmysocks.net/  
+Justmysocks: https://justmysocks.net/  
+vultr：https://www.vultr.com/  
+AWS：https://aws.amazon.com/  
 
 ---
 
